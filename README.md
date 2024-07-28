@@ -40,19 +40,6 @@ classDiagram
     QuestionList --> "*" QuestionBase: contains
 ```
 
- ## 🚀 Getting Started
- 
- ## Prerequisites
-- .NET 8.0 SDK or later
-- Visual Studio 2024 or later (recommended)
-
-## Installation
-
-1. Clone the repository:
-``` git clone https://github.com/your-username/ExaminationSystemConsoleApp.git ```
-
-2. Open the solution in Visual Studio.
-3. Build the solution to restore NuGet packages.
 
 ## Running the Application
 
